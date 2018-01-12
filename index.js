@@ -5,21 +5,21 @@ const borderColor = 'rgba(38, 139, 210, 0.3)'
 
 const colors = {
   black: '#fdf6e3', // black
-  red: '#dc322f', // red
+  red: '#DC322F', // red
   green: '#859900', // green
-  yellow: '#b58900', // yellow
-  blue: '#268bd2', // blue
-  magenta: '#6c71c4', // violet
-  cyan: '#2aa198', // cyan
-  white: '#657b83', // light gray
-  lightBlack: '#586e75', // medium gray
-  lightRed: '#dc322f', // red
-  lightGreen: '#859900', // green
-  lightYellow: '#b58900', // yellow
-  lightBlue: '#268bd2', // blue
-  lightMagenta: '#6c71c4', // violet
-  lightCyan: '#2aa198', // cyan
-  lightWhite: '#ffffff' // white
+  yellow: '#B58900', // yellow
+  blue: '#268BD2', // blue
+  magenta: '#D33682', // violet
+  cyan: '#2AA198', // cyan
+  white: '#073642', // light gray
+  lightBlack: '#FDF6E3', // medium gray
+  lightRed: '#CB4B16', // red
+  lightGreen: '#93A1A1', // green
+  lightYellow: '#839496', // yellow
+  lightBlue: '#657B83', // blue
+  lightMagenta: '#6C71C4', // violet
+  lightCyan: '#586E75', // cyan
+  lightWhite: '#002B36' // white
 }
 
 exports.decorateConfig = config => {
